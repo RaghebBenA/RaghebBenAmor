@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RaghebBenAmor/static/css/main.9847fa54.chunk.css",
+    "main.js": "/RaghebBenAmor/static/js/main.6cf57bfc.chunk.js",
+    "main.js.map": "/RaghebBenAmor/static/js/main.6cf57bfc.chunk.js.map",
+    "runtime-main.js": "/RaghebBenAmor/static/js/runtime-main.0a86ec0f.js",
+    "runtime-main.js.map": "/RaghebBenAmor/static/js/runtime-main.0a86ec0f.js.map",
+    "static/css/2.b9ac57d3.chunk.css": "/RaghebBenAmor/static/css/2.b9ac57d3.chunk.css",
+    "static/js/2.7cc67861.chunk.js": "/RaghebBenAmor/static/js/2.7cc67861.chunk.js",
+    "static/js/2.7cc67861.chunk.js.map": "/RaghebBenAmor/static/js/2.7cc67861.chunk.js.map",
+    "index.html": "/RaghebBenAmor/index.html",
+    "precache-manifest.3c562229b8de3b0736d7c42995956c01.js": "/RaghebBenAmor/precache-manifest.3c562229b8de3b0736d7c42995956c01.js",
+    "service-worker.js": "/RaghebBenAmor/service-worker.js",
+    "static/css/2.b9ac57d3.chunk.css.map": "/RaghebBenAmor/static/css/2.b9ac57d3.chunk.css.map",
+    "static/css/main.9847fa54.chunk.css.map": "/RaghebBenAmor/static/css/main.9847fa54.chunk.css.map",
+    "static/media/mdb.css": "/RaghebBenAmor/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/RaghebBenAmor/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a86ec0f.js",
+    "static/css/2.b9ac57d3.chunk.css",
+    "static/js/2.7cc67861.chunk.js",
+    "static/css/main.9847fa54.chunk.css",
+    "static/js/main.6cf57bfc.chunk.js"
+  ]
+}
