@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f9a0a08a0e0f3309eadeb9eff88c9b5",
+    "revision": "45cd28fb6024673747669f8db5860f21",
     "url": "/RaghebBenAmor/index.html"
   },
   {
-    "revision": "a7dfa5d70a18abe5563d",
+    "revision": "4fbb585b2f520b013c13",
     "url": "/RaghebBenAmor/static/css/2.b9ac57d3.chunk.css"
   },
   {
-    "revision": "9516bc2a77e00d18e261",
-    "url": "/RaghebBenAmor/static/css/main.9847fa54.chunk.css"
+    "revision": "6a1b8443824adaa8a947",
+    "url": "/RaghebBenAmor/static/css/main.091b2585.chunk.css"
   },
   {
-    "revision": "a7dfa5d70a18abe5563d",
-    "url": "/RaghebBenAmor/static/js/2.7cc67861.chunk.js"
+    "revision": "4fbb585b2f520b013c13",
+    "url": "/RaghebBenAmor/static/js/2.da91012c.chunk.js"
   },
   {
-    "revision": "9516bc2a77e00d18e261",
-    "url": "/RaghebBenAmor/static/js/main.6cf57bfc.chunk.js"
+    "revision": "6a1b8443824adaa8a947",
+    "url": "/RaghebBenAmor/static/js/main.69b86402.chunk.js"
   },
   {
     "revision": "4561a1fb94e664940a09",
