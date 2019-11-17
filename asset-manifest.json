@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RaghebBenAmor/static/css/main.5dcceb58.chunk.css",
+    "main.css": "/RaghebBenAmor/static/css/main.bbd4dd89.chunk.css",
     "main.js": "/RaghebBenAmor/static/js/main.42ebe8de.chunk.js",
     "main.js.map": "/RaghebBenAmor/static/js/main.42ebe8de.chunk.js.map",
     "runtime-main.js": "/RaghebBenAmor/static/js/runtime-main.0a86ec0f.js",
@@ -9,10 +9,10 @@
     "static/js/2.dc0d0b02.chunk.js": "/RaghebBenAmor/static/js/2.dc0d0b02.chunk.js",
     "static/js/2.dc0d0b02.chunk.js.map": "/RaghebBenAmor/static/js/2.dc0d0b02.chunk.js.map",
     "index.html": "/RaghebBenAmor/index.html",
-    "precache-manifest.7d9aa495e539dc7a2d1597adc4e452db.js": "/RaghebBenAmor/precache-manifest.7d9aa495e539dc7a2d1597adc4e452db.js",
+    "precache-manifest.eb24a936c3e817e939d5b30dbae43edd.js": "/RaghebBenAmor/precache-manifest.eb24a936c3e817e939d5b30dbae43edd.js",
     "service-worker.js": "/RaghebBenAmor/service-worker.js",
     "static/css/2.b9ac57d3.chunk.css.map": "/RaghebBenAmor/static/css/2.b9ac57d3.chunk.css.map",
-    "static/css/main.5dcceb58.chunk.css.map": "/RaghebBenAmor/static/css/main.5dcceb58.chunk.css.map",
+    "static/css/main.bbd4dd89.chunk.css.map": "/RaghebBenAmor/static/css/main.bbd4dd89.chunk.css.map",
     "static/media/mdb.css": "/RaghebBenAmor/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/RaghebBenAmor/static/media/fa-solid-900.c2801fb4.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.0a86ec0f.js",
     "static/css/2.b9ac57d3.chunk.css",
     "static/js/2.dc0d0b02.chunk.js",
-    "static/css/main.5dcceb58.chunk.css",
+    "static/css/main.bbd4dd89.chunk.css",
     "static/js/main.42ebe8de.chunk.js"
   ]
 }
