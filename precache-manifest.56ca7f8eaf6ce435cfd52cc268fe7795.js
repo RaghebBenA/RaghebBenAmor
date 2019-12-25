@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "918608cced0b9178c66d66e3b8a13394",
+    "revision": "fb206d8b4e58e84d308edc68be65da95",
     "url": "/RaghebBenAmor/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RaghebBenAmor/static/css/2.b9ac57d3.chunk.css"
   },
   {
-    "revision": "d2be51b9339a71b5240c",
+    "revision": "e70f29f08fd11dd0c115",
     "url": "/RaghebBenAmor/static/css/main.bbd4dd89.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RaghebBenAmor/static/js/2.dc0d0b02.chunk.js"
   },
   {
-    "revision": "d2be51b9339a71b5240c",
-    "url": "/RaghebBenAmor/static/js/main.42ebe8de.chunk.js"
+    "revision": "e70f29f08fd11dd0c115",
+    "url": "/RaghebBenAmor/static/js/main.06454e48.chunk.js"
   },
   {
     "revision": "4561a1fb94e664940a09",
